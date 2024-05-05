@@ -3,6 +3,22 @@
         "name": "Ancase Rekasae",
         "description": "Web Developer",
         "github": "https://github.com/AncaSea",
-        "project": "https://github.com/AncaSea"
+        "project": "https://github.com/AncaSea",
+        "bio": "Hi, I am an informatics student at STMIK Sinar Nusantara Surakarta and will graduate in 2023. I am interested in freelancing and also working for a company. I like working in a team to work on every type of project whether large, medium or small.",
+        "resume": "https://drive.google.com/file/d/15yVdJOPHXjaOjC1z4WtDsyDyRQ_lsnuP/view?usp=drive_link",
+        "email": "rekasae255@gmail.com",
+        "linkEmail": "mailto:rekasae255@gmail.com?subject=Write Your Subject&body=Write Your Message",
+        "linkedin": "https://www.linkedin.com/in/ancasea/",
+        "address": {
+            "street": "Raya Delanggu-Juwiring St",
+            "city": "Klaten",
+            "state": "Middle Java",
+            "zip": "57473",
+            "country": "Indonesia"
+        },
+        "phone": "081325127965",
+        "linkPhone": "https://wa.me/6281325127965/?text=Hello, I am interested in your services",
+        "website": "https://github.com/AncaSea",
+        "image": "ANCSEA3.png"
     }
 }
