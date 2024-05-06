@@ -4,6 +4,7 @@ import ReactGA from 'react-ga';
 import $ from 'jquery';
 import Header from './Component/Header';
 import About from './Component/About';
+import Contact from './Component/Contact';
 
 class App extends Component {
   constructor(props) {
@@ -41,11 +42,11 @@ class App extends Component {
       <div className="App">
         <Header data={this.state.resumeData.main} />
         <About data={this.state.resumeData.main} />
+        <Contact data={this.state.resumeData.main} />
         {/* <Resume data={this.state.resumeData.resume} />
         <Portfolio data={this.state.resumeData.portfolio} />
-        <Testimonials data={this.state.resumeData.testimonials} />
-        <Contact data={this.state.resumeData.main} />
-        <Footer data={this.state.resumeData.main} /> */}
+        <Testimonials data={this.state.resumeData.testimonials} /> */}
+        {/* <Footer data={this.state.resumeData.main} /> */}
       </div>
     );
   }

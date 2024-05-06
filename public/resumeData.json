@@ -19,6 +19,7 @@
         "phone": "081325127965",
         "linkPhone": "https://wa.me/6281325127965/?text=Hello, I am interested in your services",
         "website": "https://github.com/AncaSea",
-        "image": "ANCSEA3.png"
+        "image": "ANCSEA3.png",
+        "contactMessage": "Write message for me to help you with. Like example 'Hello, I am interested in your services'"
     }
 }
