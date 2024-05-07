@@ -5,7 +5,6 @@
         "github": "https://github.com/AncaSea",
         "project": "https://github.com/AncaSea",
         "bio": "Hi, I am an informatics student at STMIK Sinar Nusantara Surakarta and will graduate in 2023. I am interested in freelancing and also working for a company. I like working in a team to work on every type of project whether large, medium or small.",
-        "resume": "https://drive.google.com/file/d/15yVdJOPHXjaOjC1z4WtDsyDyRQ_lsnuP/view?usp=drive_link",
         "email": "rekasae255@gmail.com",
         "linkEmail": "mailto:rekasae255@gmail.com?subject=Write Your Subject&body=Write Your Message",
         "linkedin": "https://www.linkedin.com/in/ancasea/",
@@ -21,5 +20,62 @@
         "website": "https://github.com/AncaSea",
         "image": "ANCSEA3.png",
         "contactMessage": "Write message for me to help you with. Like example 'Hello, I am interested in your services'"
+    },
+    "resume": {
+        "skillMessage": "Here you can create a short write-up of your skills to show off to employers",
+        "educations": [
+            {
+                "school": "STMIK Sinar Nusantara Surakarta",
+                "degree": "Bachelor degree of Computer Science",
+                "date": "2019-2023",
+                "location": "Surakarta, Indonesia",
+                "graduated": "February 2023",
+                "description": "I am a former participant in the independent study program of Independent Campus or better known as MSIB, which is held by the Ministry of Education. I took this educational course at Alterra Academy as a Flutter Developer for approximately 5 months. Apart from that, I also study web development with the language that I often use is PHP and use the Laravel framework. but that's not enough, I want to keep up with the times by learning other web programming languages ​​and frameworks that are currently trending."
+            },
+            {
+                "school": "SMA Negeri 1 Wonosari",
+                "degree": "Associate Degree of Science",
+                "date": "2017-2019",
+                "location": "Klaten, Indonesia",
+                "graduated": "June 2019",
+                "description": "I am a student who is quite active in the field of science or natural science. And also quite active in the field of sports, especially basketball."
+            }
+        ],
+        "works": [
+            {
+                "name": "Freelance",
+                "company": "Omni Digital Technology",
+                "location": "Surakarta, Indonesia",
+                "date": "2023-Now",
+                "position": "Full-stack Web Developer",
+                "description": "I have worked on several projects with Omni Ditech using the Laravel framework such as company profile websites, e-commerce, and others. As a full-stack developer, I have the task of helping work on and fixing errors on the front-end and back-end. that way I feel that I am able to work in a team and can work on projects of any size."
+            }
+        ],
+        "skills": [
+            {
+                "name": "HTML",
+                "level": "80%"
+            },
+            {
+                "name": "CSS",
+                "level": "80%"
+            },
+            {
+                "name": "JavaScript",
+                "level": "60%"
+            },
+            {
+                "name": "PHP",
+                "level": "60%"
+            },
+            {
+                "name": "Laravel",
+                "level": "60%"
+            },
+            {
+                "name": "MySQL",
+                "level": "60%"
+            }
+        ]
     }
 }
