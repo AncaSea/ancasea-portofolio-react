@@ -77,5 +77,45 @@
                 "level": "60%"
             }
         ]
+    },
+    "portofolio": {
+        "projects": [
+            {
+                "name": "Vaksin.ID",
+                "description": "Mobile-based application prototype for public health in finding vaccine needs during the Covid19 pandemic. This mobile application is programmed using Flutter.",
+                "image": "project-1.jpg",
+                "url": "https://github.com/capstone-kelompok12/vaksin-id-flutter"
+            },
+            {
+                "name": "SGONLINE",
+                "description": "E-commerce website project with transactions via WhatsApp chat and bank transfer. The website contains a home page for product visuals, cart, user profile and history, admin, and owner.",
+                "image": "project-2.png",
+                "url": "https://github.com/AncaSea"
+            },
+            {
+                "name": "JantiPark",
+                "description": "Website management application project for digitalization purposes in the cashier section, stock management, and monitoring sales & stock at the Janti Park tourist attraction.",
+                "image": "project-3.png",
+                "url": "https://github.com/AncaSea"
+            },
+            {
+                "name": "SEGED",
+                "description": "Website application prototype project to manage rental of government-owned buildings or individual.",
+                "image": "project-4.png",
+                "url": "https://github.com/AncaSea"
+            },
+            {
+                "name": "SedotWcAmanahMedan",
+                "description": "Development of a landing page project for a toilet suction business in Medan containing a page homepage,about us, services and contact.",
+                "image": "project-5.png",
+                "url": "https://github.com/AncaSea"
+            },
+            {
+                "name": "SnapBiz",
+                "description": "One-page website project for business consultant profiles, containing several segment sections main/homepage, service, contact you, and experience&collaboration.",
+                "image": "project-6.png",
+                "url": "https://github.com/AncaSea"
+            }
+        ]
     }
 }
