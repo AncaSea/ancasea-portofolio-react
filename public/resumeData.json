@@ -1,13 +1,13 @@
 {
     "main": {
         "name": "Ancase Rekasae",
+        "nickname": "Ancasea",
         "description": "Web Developer",
         "github": "https://github.com/AncaSea",
         "project": "https://github.com/AncaSea",
         "bio": "Hi, I am an informatics student at STMIK Sinar Nusantara Surakarta and will graduate in 2023. I am interested in freelancing and also working for a company. I like working in a team to work on every type of project whether large, medium or small.",
         "email": "rekasae255@gmail.com",
         "linkEmail": "mailto:rekasae255@gmail.com?subject=Write Your Subject&body=Write Your Message",
-        "linkedin": "https://www.linkedin.com/in/ancasea/",
         "address": {
             "street": "Raya Delanggu-Juwiring St",
             "city": "Klaten",
@@ -15,6 +15,28 @@
             "zip": "57473",
             "country": "Indonesia"
         },
+        "socials": [
+          {
+            "name": "Instagram",
+            "url":"https://www.instagram.com/ancasear/",
+            "className":"fa fa-instagram"
+          },
+          {
+            "name": "Facebook",
+            "url":"https://www.facebook.com/reka.sae.75?mibextid=ZbWKwL",
+            "className":"fa fa-facebook"
+          },
+          {
+            "name": "X",
+            "url":"https://x.com/ancasae?t=5IigjjejTt_Ac5-WtGcC0w&s=09",
+            "className":"fa fa-twitter"
+          },
+          {
+            "name": "LinkedIn",
+            "url":"https://www.linkedin.com/in/ancasea/",
+            "className":"fa fa-linkedin"
+          }
+        ],
         "phone": "081325127965",
         "linkPhone": "https://wa.me/6281325127965/?text=Hello, I am interested in your services",
         "website": "https://github.com/AncaSea",
